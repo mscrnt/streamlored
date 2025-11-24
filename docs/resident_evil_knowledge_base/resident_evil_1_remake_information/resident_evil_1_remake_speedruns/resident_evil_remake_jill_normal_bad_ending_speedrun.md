@@ -8,11 +8,17 @@ This guide covers the Jill Normal Mode Bad Ending (any%) route for Resident Evil
 **Character**: Jill Valentine
 **Platform**: Steam
 
-**Key Route Characteristics:**
+**Key Route Characteristics for Bad Ending any%:**
 - Say NO to Barry in caves (causes his death, and you pick up Barry's .44 Magnum)
 - Don't rescue Chris from lab cell (avoid picking up MO Discs)
 - More aggressive/optimized routing with a very direct route toward the end.
 - No usage of Rocket Launcher or Samurai Edge.
+
+**Characteristics unique to playing Jill Valentine**
+- Jill has 960 HP, or "hit points". This is her health. If she is above 75% health, she is in "Fine" Status. If she has between 50% and 75% health, she is in "Yellow Caution" status. If she is between 25% and 50% HP, she is in "Orange Caution" status. If she has only 25% damage left, she is in "Danger" status.
+- Jill has a maximum of 8 item slots. Chris has a maximum of 6.
+- Jill gets a permanent Lockpick from Barry in the main hall at the beginning of the game. Chris gets a permanent Lighter in his inventory, instead.
+- Jill will find a Grenade Launcher. Chris will find a Flamethrower, instead, but he doesn't get the Flamethrower for the whole game.
 
 ---
 
@@ -20,7 +26,7 @@ This guide covers the Jill Normal Mode Bad Ending (any%) route for Resident Evil
 
 ### Unequip Handgun
 
-Open inventory immediately and unequip the handgun. Saves time since you'll be running past enemies.
+Open inventory immediately and unequip the handgun. Unequipping your handgun saves time since you'll be running past most of the enemies in the game.
 
 ### Wesker Dialogue
 
@@ -52,11 +58,11 @@ Stairskate up the west stairwell.
 
 ### !!HALLWAY HUMPIST!!
 
-Zombie waiting to ambush off-frame near the mirror. Pick up the Golden Arrow, then bait a lunge. If he doesn't lunge, let him walk to you for a couple of steps then run around him since his lunge is probably on a timed delay. Reset if bitten.
+Zombie waiting to ambush off-frame near the mirror. Carci calls him "The Hallway Humpist". Pick up the Golden Arrow, before the corner then bait a lunge. If he doesn't lunge, his lunge is on a delay, so you must do an alternative dodge. Let him walk to you for a couple of steps then run around him using the alt-control movement. Reset if bitten.
 
 ### to Main Hall
 
-Go through 2F Dining Room through the double doors to the Main Hall.
+Go through 2F Dining Room through the double doors to the Main Hall. Avoid the dagger. This dagger is an optional pickup later, but if you must pick it up, picking it up now will result in IRL timeloss if you must reset.
 
 ### to Graveyard
 
@@ -64,7 +70,7 @@ Go down the short stairs, through the door to graveyard.
 
 ### !!FUCKFACE FREDDY!!
 
-Zombie in graveyard area. Dodge him and head toward the tomb with archer statue. Examine Golden Arrow to get Arrowhead. Use on tomb to access Crypt.
+There's two zombies in the graveyard area. The first one, at the base of the stairs, is called Fuckface Freddy. His friend in the left-hand alcove is Fat Fuck Fernando. Fuckface Freddy has many different  Dodge him and head toward the tomb with archer statue. Examine Golden Arrow to get Arrowhead. Use on tomb to access Crypt.
 
 ### to Art Room
 

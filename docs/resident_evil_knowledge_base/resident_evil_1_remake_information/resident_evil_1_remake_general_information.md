@@ -17,7 +17,7 @@ There should be a distinction made between *RE1 Remake* and *Resident Evil HD Re
 
 *Resident Evil HD Remaster* is a remaster of the *RE1 Remake*. The original remake was released on the Gamecube in 2002 and the Wii in 2009.
 
-They are functionally the same game, but *Resident Evil HD Remaster* is on the PS3, PS4, PS5, Xbox 360, Xbox One, Xbox Series S, Xbox Series X, Switch, Switch 2, and PC (Steam) and has some pretty big Quality of Life changes. People usually call it "the HD remaster" to differentiate it from the original GCN and Wii releases.
+They are functionally the same game, but *Resident Evil HD Remaster* is a *REMASTER* of the RE1 Remake, released on the PS3, PS4, PS5, Xbox 360, Xbox One, Xbox Series S, Xbox Series X, Switch, Switch 2, and PC (Steam). It has some pretty big Quality of Life changes. People usually call it "the HD remaster" to differentiate it from the original GCN and Wii releases. Other HD Remasters for other Resident Evil games exist, so please derive proper context when trying to determine which HD Remaster a viewer may be talking about or referring to.
 
 ## Key Differences from the 1996 Original
 
