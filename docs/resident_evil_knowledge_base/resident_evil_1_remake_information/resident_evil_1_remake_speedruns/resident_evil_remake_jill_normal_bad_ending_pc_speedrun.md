@@ -14,11 +14,22 @@ This guide covers the Jill Normal Mode Bad Ending (any%) route for Resident Evil
 - More aggressive/optimized routing with a very direct route toward the end.
 - No usage of Rocket Launcher or Samurai Edge.
 
+**Characteristics of speedrunning Resident Evil HD Remaster on PC**
+- In the game's settings, your framerate is set to "variable", and the Vsync option is set to "off". This makes the game run at a maximum of 120 Frames Per Second ("FPS"). 120FPS causes the game to run at its maximum speed.
+- any% in the context of Resident Evil REmake speedruns (all platforms) means "any ending", but it is intended for the player to run Bad Ending, as it is the fastest.
+- for any% runs, Rocket Launcher is banned unless you are running the New Game + category
+
 **Characteristics unique to playing Jill Valentine**
 - Jill has 960 HP, or "hit points". This is her health. If she is above 75% health, she is in "Fine" Status. If she has between 50% and 75% health, she is in "Yellow Caution" status. If she is between 25% and 50% HP, she is in "Orange Caution" status. If she has only 25% damage left, she is in "Danger" status.
 - Jill has a maximum of 8 item slots. Chris has a maximum of 6.
 - Jill gets a permanent Lockpick from Barry in the main hall at the beginning of the game. Chris gets a permanent Lighter in his inventory, instead.
 - Jill will find a Grenade Launcher. Chris will find a Flamethrower, instead, but he doesn't get the Flamethrower for the whole game.
+
+**About the Livesplit Autosplitter**
+- Resident Evil HD Remaster speedruns on PC/Steam are timed via an Autosplitter Script (.asl file) in Livesplit. This Autosplitter Script automatically hits the splits so the player doesn't have to worry about manually hitting the button each time a split is completed.
+- Carci's splits are "door splits", meaning the autosplitter will automatically split each time Carci opens a door, with the exception of a few doors (if necessary, will define later). With each new room load, a new split begins.
+- Resident Evil HD Remaster speedruns on PC/Steam are timed via LRT, or "Load Removal Time". This is a timing method that uses the .asl script. The .asl script times the speedrun via "RTA" or "Real Time Attack" timing. This is different from Resident Evil HD Remaster's internal game timer, in that it uses "Real Time" instead.
+- LRT pauses the timer on each door load, freezing the timer during loading screens. This is done to make timing more fair between PC setups, as each runner's computer hardware is different.
 
 ---
 
@@ -42,21 +53,23 @@ Grab the Wooden Emblem from above the fireplace in dining room.
 
 ### Main Hall Stairskate
 
-After cutscenes, execute stairskate on main hall stairs going up then back down. Input: hold "up" on D-pad + mash run while approaching stairs. Mash past the following cutscene to get the Lockpick (Jill-Only Item)
+After cutscenes, execute stairskate on main hall stairs going up then back down. Input: hold "up" on D-pad + mash run while approaching stairs. Mash past the following cutscene to get the Lockpick (Jill-Only Item).
 
 ### to Kenneth Hall
 
-Head past dining room into Kenneth Hallway.
+Head through the dining room into the door to the Kenneth Hallway.
 
 ### to West Stairwell
 
-Head to the door next to Kenneth
+Head through the door next to Kenneth, into the West Stairwell.
 
 ### West Stairwell Stairskate
 
-Stairskate up the west stairwell.
+Stairskate up the west stairwell. Open the door to the Arrow Hallway, or "Murder Hall".
 
 ### !!HALLWAY HUMPIST!!
+
+This hallway is known colloquially by runners as the "Murder hall". It is the hallway where you pick up the Golden Arrow. There are 
 
 Zombie waiting to ambush off-frame near the mirror. Carci calls him "The Hallway Humpist". Pick up the Golden Arrow, before the corner then bait a lunge. If he doesn't lunge, his lunge is on a delay, so you must do an alternative dodge. Let him walk to you for a couple of steps then run around him using the alt-control movement. Reset if bitten.
 
@@ -70,47 +83,49 @@ Go down the short stairs, through the door to graveyard.
 
 ### !!FUCKFACE FREDDY!!
 
-There's two zombies in the graveyard area. The first one, at the base of the stairs, is called Fuckface Freddy. His friend in the left-hand alcove is Fat Fuck Fernando. Fuckface Freddy has many different  Dodge him and head toward the tomb with archer statue. Examine Golden Arrow to get Arrowhead. Use on tomb to access Crypt.
+There's two zombies in the graveyard area. The first one, at the base of the stairs, is called Fuckface Freddy. His friend in the left-hand alcove is Fat Fuck Fernando. Fuckface Freddy has many different places he can be, as his set 'rotation value' is completely random. Stairskate down the stairs until you see Fuckface Freddy. Then run past him and head toward the tomb with archer statue. On the way to the Archer Statue, stay to the right hand side of the pathway so Fat Fuck Fernando doesn't aggro. Fat Fuck Fernando will rarely aggro if you stay toward the right hand side, but sometimes he'll aggro. Examine Golden Arrow to get Arrowhead. Use the Arrowhead on the Crypt to gain access. Stairskate down the stairs. When in the crypt, pick up the Book of Curse. Stairskate back up the stairs and leave. If you didn't aggro Fat Fuck Fernando, he'll still remain at his spawn, and you'll only have to dodge Fuckface Freddy. If you see Fuckface Freddy on the sideways camera angle on the way out, try to bait a lunge and run around him. If Fuckface Freddy doesn't lunge, wait for him to meander into a wall and run past him. If you don't see Fuckface Freddy on the sideways camera angle, advance to the next camera angle and backstep into the previous camera angle to ascertain his position. If you have space to just run past, just do that. The ideal setup is if Fuckface Freddy is completely out of your path, and you can just run a straight line back out the door. But if Fat Fuck Fernando is active, you have to dodge them both. Reset the run if you get bit. Otherwise, if you are able and manage to clear both zombies in any situation, stairskate back up the stairs and leave through the door you came through, back into the Main Hall.
 
 ### to Art Room
 
-Enter Crypt, grab Book of Curses from stand. Flip and examine to get Sword Key.
+In the main hall, go into your inventory and examine the Book of Curse. Hold Down-Right on the D-pad to rotate the book until you see the Sword Key on the back of it. Holding Down-Right on the D-Pad is the fastest way to rotate the book until you see the Sword Key. Hit "Confirm" to take the Sword Key. Mash Cancel until you regain control of Jill. Stairskate down the stairs then take the double-doors on the right-hand side of the Main Hall, into the Art Gallery with the statue of the Woman Drawing Water.
 
 ### Unlock Door
 
-Return to Main Hall. **WARNING**: Don't exit back to main hall from art room or Barry gives you Acid Rounds, making shotgun inaccessible.
+In the Art Gallery ("Art Room") with the Statue of Woman Drawing Water, unlock the Sword Key door and enter the Dog Hallway
 
 ### Dog Hallway
 
-East side double doors. Get 1F map by pushing dresser to statue. Careful of zombie ambush on left. If dresser stuck, use right door to reset.
+Pass through to the door on the opposite side of the hall into the "Squiggle Hall".
 
 ### Lockpick Door
 
-Use Jill's lockpick on door.
+Carci calls this hallway the "Squiggle Hall" because it's shaped like a weird squiggle with 4 turns. There are 4 doors. The first door immediately next to the dog hallway (which we just came from), leads to the outside area with two dogs outside of a fence, where you find the Herbicide. This door is locked with the Small Key (Chris) or Lockpick (Jill). The next door is the bathroom with the zombie in the bathtub. The door after that leads to the Shotgun trap. The double-doors at the end of the hall lead to the Spencer Hallway, which will be defined in the "to Spencer Hallway" split. Unlock the first door with the lockpick and enter it.
 
 ### Herbicide
 
-Push first dresser for Dagger. Push last dresser (opposite direction) for Handgun magazine. Through door, take metal door on left. Outside grab Chemical and herbs - leave one slot for shotgun.
+This exterior area is a fenced in dead-end with a small boiler and some gardening supplies. There are two zombie dogs outside, which will not jump over the fence unless you exit and return to the room. Run to the Herbicide, pick it up, then leave the room through the same door you entered, back into the Squiggle Hallway.
 
 ### to Spencer Hallway
 
-Head to Spencer hallway. Bathroom: drain tub, cutscene disposes zombie. Grab Dagger from bath.
+In the squiggle hallway go through the very last set of double-doors, which lead to the Squiggle Hallway.
 
 ### to East Stairwell
 
-Through next door to small room, then to Shotgun room. Grab typewriter ribbon, Dagger, and Shotgun. Taking Shotgun triggers ceiling trap - both doors lock. Barry saves you if you didn't take acid rounds.
+The Spencer Hallway has 4 doors. The first door leads to the East Stairwell. The second door is locked with a door that has a Spencer Emblem, which is unlocked by the Spencer Key. This door is unlocked much later in the run. The third door is locked by the Armor Key, which leads to the Glass Stain Crow Puzzle. The fourth door leads to the area that leads to the courtyard, the sheltered area where you place the Stone and Metal Object later. Run immediately through the first door to the East Stairwell.
 
 ### !!Lunge Bait (Reset)!!
 
-Continue to double doors, through to staircase area. Annoying zombie by door - dodge or kill him since you'll access this room multiple times.
+The East Stairwell has 2 floors, 3 zombies, and 6 doors total. Some of these doors will be defined later since they are unimportant at this point in the speedrun. On the first floor, there is one zombie at the bottom of the stairs, next to the East Save Room. Avoid this zombie and avoid going to the East Save Room and stairskate directly up the stairs. Immediately head to Jill's subjective right, which would be the "down" direction on the camera angle at the top of the stairs. This leads toward a door adjacent to a small corridor with another door on the end. 
+
+There is a zombie next to two of the doors on the next camera angle. The first door you see on this camera is missing a doorknob on this side of the door, so it cannot be entered. This door is a one-way door coming from the Small Library. The zombie is closest to this door, around the corner leading into the small corridor. This zombie has a high chance of lunging. Run to the corner to bait a lunge, then use Alt Controls with the left analog stick to swerve downward around him, barely out of his lunge range, then run to the door directly behind him. This door locks from one side, unlocking from the East Stairwell side of the door, to the C-Shaped Hallway. Go through the door.
 
 ### !!5% FRANKIE!!
 
-Named zombie with 5% grab chance in stairwell area.
+Now we're in the C-Shaped hallway. You'll see the Wooden Mount next to the door you just entered from. DO NOT PICK IT UP. It's useless. There are 5 total doors in this room. They will all be defined in the split titled "Loose Larry". Directly to Jill's subjective right is a door at the end of the hallway. We want to go through that door, but there's one zombie in the way, which you will see immediately This zombie is called "5% Frankie" because he has a 5% chance to grab you. In order to get around him, simply run to the left hand side and hug the wall to get around him. Then you can enter the door to the Small Library (also called the Small Study).
 
 ### Lighter, Dog Whistle
 
-First Save Room through door. Item Box your Ribbons, Knife, spare healing items, and Chemical. Head back with 3 empty slots. Upstairs, get Wooden Mount from lamp shelf. Head right, dodge zombie, through door to small study. Grab Dog Whistle, Magazine, and Lighter.
+Entering the Small Library (also called "Small Study"). There's two doors. The door you enter from is from the C-Shaped Hallway, the other door leads to the East Staiwell. On the other side of that door is the door leading to the second floor of the East Hallway, next to where we dodged a zombie earlier. If you remember, this door mentioned before is a one-way door. You can pass through it and not be able to come back through, so do NOT go through this door. There's a circulation desk directly in front of the door you came in from, with a Lighter on top. Pick up the Lighter. Then turn around immediately and go to the side table next to the door you came from. There is a Dog Whistle sitting on top of this table. Pick it up, then mash out of the following file screen that pops up. Now leave back through the door you came through.
 
 ### !!LOOSE LARRY!!
 
