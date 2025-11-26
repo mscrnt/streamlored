@@ -207,34 +207,35 @@ Medical Supply save room. Take the Serum. Deposit the Handgun, Knife, and Sword 
 
 ### Unlock Door
 
-We're on the first floor of the West Stairwell. Round the corner, then proceed to the end of the corridor (do not go back upstairs). A zombie is in our way, he is very tricky to dodge. Once you get past him there are two doors. One door can be opened with a lockpick. The door next to it can be opened with the Armor Key. Unlock it with the Armor Key, to proceed to the F-Shaped Hallway.
+We're on the first floor of West Stairwell 2. Round the corner, then proceed to the end of the corridor (do not go back upstairs). A zombie is in our way, he is very tricky to dodge. Once you get past him there are two doors. One door can be opened with a lockpick. The door next to it can be opened with the Armor Key. Unlock it with the Armor Key, to proceed to the F-Shaped Hallway.
 
 ### to Plant Room
 
-Grab battery pack from table. Run past windows to door at end.
+From the West Stairwell 2, we are now in the F-Shaped hallway. Pick up the Battery Pack for the Stun Gun. Next, proceed to the end of the hall, where you will enter the Greenhouse through the door.
 
 ### Death Mask 1
 
-Put Chemical in water pump, turn handle to red. Water kills plant. 5 green herbs available. Grab Death Mask in back past herbs. 2 zombies crash through window on exit - run away.
+Coming from the F-Shaped Hallway, go to the pump and use the Herbicide on the pump. Then turn the valve to Red. A cutscene will play where the large plant in the middle of the room will die. Next, pick up the Death Mask behind the now-dead plant, and leave the room through the door you just came in from, to the F-Shaped Hallway.
 
 ### to Kenneth Hall
 
-Head toward bottom of F-shaped room. Through door to Kenneth's hall.
+Leaving the Greenhouse, proceed to the other end of the hall. There are 3 more doors. Unlock the door at the end of this branch of the hallway, to get to the Kenneth Hallway. In the Kenneth Hallway, proceed to the Dining Room.
 
 ### to Main Hall
 
-Go to dining room. **BAD ENDING**: Skip grabbing wooden emblem here since we already have it from opening.
+From the Kenneth Hallway, you are now in the Dining Room. Grab the Wooden Emblem. Go to the Main Hall.
 
 ### to 2F E Hall
 
-Head back to 2F east hall.
+From the Dining Room, you are now in the Main Hall. Stairskate up the stairs to get to the 2F C-Shaped Hallway. Go through the door.
 
 ### to Richard
 
+From the Main Hall, you are now in the 2F C-Shaped Hallway. Go through the door to the Richard Hallway.
 
 
 ### Richard Serum Cutscene
-
+From the 2F C-Shaped Hallway, you are now in the Richard Hallway. As soon as you run forward, a cutscene plays where you give the serum to Richard. Skip the cutscene. As soon as the cutscene is skipped, turn around immediately and enter the door on the other side of the hallway, which is now open.
 
 
 ### !!Sleeper!!
