@@ -308,23 +308,23 @@ You are now in the Yawn Boss Room. Run towards the Mask on the other side of the
 
 ### NOOOOOOOOO
 
-You are now in the T-Shaped Hallway from the Yawn Boss Room. Richard screams as Yawn eats him alive.
+You are now in the T-Shaped Hallway from the Yawn Boss Room. Richard screams as Yawn eats him alive. Leave to the Richard Hallway.
 
 ### !!ZOMBIE HERE NOW!!
 
-Head back to first floor. Through double doors. In bathroom hallway, 4 zombies crash through windows.
+You are in the Richard Hallway. Now that Richard is no longer in this room (or in this context, dead) there is a zombie here now. You can cut across to avoid him. Leave through the door to the C-Shaped Hallway.
 
 ### !!QUICK ROTATION!!
 
-Quick camera rotation for dodge through L-shaped hallway.
+You are now in the C-Shaped Hallway on 2F. Rush to the double-doors in the center of the hallway. On your way over, Loose Larry may get in our way. We have to blind dodge him again, because we will have no idea where he is, based on the camera angles. Just run the straightest line you can with tank controls and hopefully he won't grab you. If he does, then either take the bite or use a defense item. There's nothing you can do about this if it happens besides use a defense item. Go to the double doors, unlock them with the Armor key, then enter the Armor Puzzle Room.
 
 ### Death Mask 3
 
-Zombie around corner. Kill and enter door to left that you can unlock.
+You are now in the Armor Puzzle Room. Push the Top-Right,Bottom-Left, and Bottom-Right statues in that order. Then press the button in the center of the room, then pick up the Jewelry Box. Leave back into the C-Shaped Hallway via the door you came in through (which is the only door).
 
 ### to 2F E Stairs
 
-Head to 2F east stairs.
+You are now in the C-Shaped Hallway. In this run, this is the last trip through this hallway.
 
 ### !!1% BACKGRAB!!
 
